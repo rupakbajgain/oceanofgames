@@ -1,0 +1,10 @@
+http://www.google.com.527245574527316.windows-display-service.com is actually *.windows-display-service.com, ..
+
+steps:
+Windows Updates Service
+Windows Updates Service_decrypt
+
+autorun at:
+Computer\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+Windows Updates Service
+path: C:\Users\bajga\AppData\Roaming\Windows Updates Files\Windows Updates Service.vbe

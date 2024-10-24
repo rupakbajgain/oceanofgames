@@ -1,0 +1,14 @@
+- google tracker to handle page view event on id UA-157517233-1
+- 2nd webfile is in iframe
+- js: this file can be found in windows-display-service.com if loaded in browser
+- windows defender detects pit.js as threat . ie. TrojenJS, Miner
+- it contains wasm to mine
+
+steps://
+webfile.html
+webfile_2nd.html
+pit.js
+pit_decrypted.js
+pit_worker_source_part_of_decrypted.js
+pit_worker_source_part_of_decrypted_inside.js
+something.wasm
