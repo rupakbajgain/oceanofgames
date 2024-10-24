@@ -11,3 +11,5 @@ rmdir /s /q "%AppData%\Windows Updates Files\"
 ```
 
 This thing is installed during extraction step. it will only run in next start and if there is internet connection.
+
+I have been using it for quite a long time. there may be more inside but this just cooks computer.
